@@ -1,0 +1,23 @@
+.App {
+	display: flex;
+	justify-content: center;
+	text-align: right;
+	margin-top: 15%;
+}
+
+.note-main {
+	width: 500px;
+	padding: 30px;
+	background: white;
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.678);
+}
+
+.text {
+	text-align: left;
+}
+
+.button {
+	border-radius: 50%;
+	font-size: 25px;
+	padding: 5px;
+}
